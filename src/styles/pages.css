@@ -1,0 +1,77 @@
+/* home page  */
+
+.rectangle {
+    position: relative;
+}
+
+.quote-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.author {
+    margin-top: 10px;
+    font-style: italic;
+}
+
+/* Actor Listing */
+.swiper-pagination-bullets {
+    display: none !important;
+}
+
+/* Actor_Listing */
+
+.listing {
+    width: 100%;
+    object-fit: cover;
+    margin: 0 auto;
+    display: block;
+}
+
+/*  Home  listing */
+
+.gallary-image {
+    transition: transform 0.3s ease;
+    overflow: hidden;
+}
+
+.gallary-image:hover,
+.gallary-image:focus {
+    transform: scale(1.1);
+}
+
+/* Swipper  */
+
+[class^="button-next-"] {
+    background-color: transparent;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  [class^="button-prev-"] {
+    background-color: transparent;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+/* home view all button */
+
+.view-button {
+    margin-right: 60px;
+}
+
+/* Gallary */
+

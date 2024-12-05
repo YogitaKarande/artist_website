@@ -1,0 +1,73 @@
+Demo
+
+home page
+    summary about actors
+    actors photo with their short description and read more about this option
+    click on image or their summary open details page
+
+details page
+    actor history
+    actor movies
+    actor short web series
+    actor songs etc
+    rating and review in one page in bottom
+
+header for only details page
+    if click on this gallary page show to bottom gallary
+    click on about page show about in bottom
+
+    in header
+        about
+        gallary
+        work
+
+--------------------------------------------
+
+- create react app
+- install react-router-Dom
+- install react-router
+- install bootstrap 5 -- import 'bootstrap/dist/css/bootstrap.css';
+- install react-icon
+- intall react-bootstrap
+
+10/14/24
+add hover in listing
+add button in short listing for scrolling
+make films list and add functionality (if i click on video play that movie in utube)
+create back and view all button separate and give arrows
+---------------------------------------------------------------------------
+
+flow of artist application
+
+    - home page
+        show listing of artist and
+        show listing of production house
+    - details page
+        in details page show - review + rating - video - photos - portpolio - book appointment page
+    - view all page
+
+    - production details page - production house details - casting - info about show - rating + review
+    
+    - view all page
+
+    - Auditions
+        auditions list
+        details about auditions - and book auditions for which role
+
+    - login
+    - Register  - show here type of registration who are registering
+    - forget
+    - change password
+    - my acount
+        user image - user name will show
+        user booking for auditions
+        user
+ -----------------------------------------------------------------------
+
+- button take in center
+
+
+-------------------------------------------------------------------------
+
+- give breakpoints to swipper
+- how to give it
